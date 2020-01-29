@@ -1,0 +1,11 @@
+body {
+    background: url("neptuno.jpg") no-repeat center center fixed; 
+    background-color: #000000;
+    font-family: "dejavu sans","arial",sans-Serif;
+}
+div.info {
+    position: absolute;
+    top: 50px;
+    right: 50px;
+    color: white;
+}
